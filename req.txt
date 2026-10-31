@@ -1,0 +1,4 @@
+/home/variant/Downloads/android_recon.py
+/home/variant/Downloads/frida-emulator.sh
+/home/variant/Downloads/hook_template.jspython3 android_recon.py app.apk --process FridaTarget
+cage -s -- waydroid show-full-ui
